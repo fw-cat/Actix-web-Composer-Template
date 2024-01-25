@@ -15,5 +15,5 @@ $ docker compose up --build -d
 
 # Actix-webの起動コマンド
 ~~~sh
-$ docker compose run rust cargo run
+$ docker compose exec rust-app cargo run
 ~~~

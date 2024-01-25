@@ -3,5 +3,5 @@
 desktop.ini
 
 # Rust
-Carg.lock
-target/**
+Cargo.lock
+**/target/**
